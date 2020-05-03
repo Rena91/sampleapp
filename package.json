@@ -1,0 +1,17 @@
+{
+  "name": "men",
+  "version": "1.0.0",
+  "description": "MongoDB operations and Express ,Node",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mocha": "^6.1.4",
+    "mongoose": "^5.5.13",
+    "nodemon": "^1.19.1"
+  }
+}
